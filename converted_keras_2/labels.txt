@@ -1,0 +1,9 @@
+0 Can I have Bill, Please
+1 Do You Need Help
+2 Get up
+3 Have a Nice Day
+4 I Lost Everything
+5 Let's be Friends
+6 Thanks for Everything
+7 What is your Name
+8 Where is the Restroom
